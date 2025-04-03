@@ -16,6 +16,8 @@ blog_index: true
 
 ![Photo cuisine]({% link images/D0FE8307-0BD2-4BB7-AB51-4E6EFA3735CD.jpeg %}) 
 
+![Plan cheminée - cuisinière à bois bouilleur]({% link images/Kamin:Herdkessel.jpg %})
+
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})
 
 ![Appareillage 2]({% link images/IMG_2625.JPG %}) 
