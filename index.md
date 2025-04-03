@@ -101,7 +101,7 @@ Un local technique y est prévu pour y installer le matériel nécessaire à cet
 
 L’ensemble du système électrique de la maison est réalisé avec fils et câbles blindés. Le plan général des divers postes de l’appareillage électrique a été longuement réfléchi. Ce plan est composé de nombreuses prises électriques, de prises RJ45 réparties dans toute la maison, de deux prises Hi Fi dans le salon, de deux prises HDMI dans la bibliothèque pour relier un écran TV à l’ordinateur.
 
-Appareillage de la marque allemande THPG.
+Appareillage de la marque allemande THPG, de couleur noire dans la cuisine, blanche dans le reste de la maison.
 
 Un éclairage privilégiant la lumière indirecte (appliques dans toute la maison, prise commandée dans la bibliothèque et dans les chambres) a été réalisé ; deux plafonniers dans l’espace cuisine – salle à manger ont été prévus, ainsi qu’un éclairage à détection automatique à l’entrée nord de la maison, qui est l’accès privilégié depuis le carport.
 
