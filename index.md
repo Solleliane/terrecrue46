@@ -13,13 +13,14 @@ in_menu: true
 #### Saint-Martin-des-Bois 46130 PRUDHOMAT
 #### Terrain 3709 m2 sans mitoyenneté
 
+
 **LE TERRAIN**
 
 Un beau terrain plat de 3709 m2 sans mitoyenneté, arboré en bordure, essentiellement des pruniers au nord et un grand noyer à l’est.  Plusieurs fruitiers ont été plantés, positionnés au sud-est de la maison, non loin du point d’eau destiné à l’arrosage du jardin potager. Quelques autres fruitiers ont été plantés le long de la bordure ouest du terrain. La terre est remarquablement fertile, tout y pousse.
 
 **LA CONSTRUCTION**
 
- 1) Les fondations
+ **1) Les fondations**
 
 Les fondations ont été réalisées en suivant la technique dite « à la romaine », ou encore « cyclopéennes ».
 
@@ -34,46 +35,46 @@ Les blocs sont maçonnés au fur et à mesure par un mortier composé de :
 	• sable pouzzolane  rouge 0,5/0,6
 	• gravier pouzzolane rouge 7/14
 
- 2) Le soubassement
+ **2) Le soubassement**
 
 Un muret de ± 50 cm de hauteur a été réalisé sur les fondations. Il est constitué de pierres de basalte maçonnées au mortier de chaux NHL 3,5 – sable de pouzzolane 0,5/0,6.
 
- 3) Les murs de bauge
+ **3) Les murs de bauge**
 
 La technique très ancienne de la bauge a été choisie pour la réalisation des murs porteurs du rez-de-chaussée. Les murs, qui atteignent une épaisseur de 60 cm de largeur, ont été bâtis avec la terre extraite du terrain (après le retrait de la terre arable) additionnée d’un peu de paille. Les qualités hygrométriques de la terre crue sont exceptionnelles : l’humidité intérieure de la maison est régulée naturellement.
 Pour le dire simplement, en été la terre rejette son humidité propre vers l’espace d’habitation de la maison, évitant ainsi l’inconfort d’un air trop sec, tandis qu’en hiver au contraire elle absorbe l’humidité intérieure de la maison, évitant l’inconfort d’un taux d’humidité trop élevé.
 Les murs en terre crue offrent une inertie exceptionnelle et un confort acoustique remarquable.
 
- 4) La moitié supérieure des deux murs pignons
+ **4) La moitié supérieure des deux murs pignons**
 
 La moitié supérieure des murs pignons a été réalisée en terre-chanvre projetée sur une ossature bois s’appuyant sur une structure poteau-poutre.
 
- 5) La charpente
+ **5) La charpente**
 
 Réalisée par une entreprise spécialisée dans la fabrication de charpente en bois vert selon les techniques anciennes de charpente (équarrissage à la hache des poutres, assemblages bois uniquement).
 
- 6) La couverture
+ **6) La couverture**
 
 La toiture se conforme à l’architecture traditionnelle locale avec une pente de 50° (120%) commandée par le PLU.
 La couverture a été réalisée avec des tuiles de fabrication traditionnelle fabriquées par la Tuilerie Puycheny, une tuilerie artisanale familiale qui fournit les monuments historiques. Tuiles plates pour la couverture de la maison, tuiles canal pour celle de l’appentis nord.
 
- 7) L’isolation en toiture
+ **7) L’isolation en toiture**
 
 Elle est assurée par une épaisseur de 2 x 100 mm de laine de bois souple croisée (Pavaflex Confort 36), positionnée entre les chevrons fixés sur la charpente. Un pare-pluie de 80 mm d’épaisseur en fibre de bois rigide (Isolair) recouvre les chevrons et vient compléter l’isolation par un principe de déphasage thermique, freinant la pénétration de la chaleur ou du froid.
 
- 8) Les ouvertures
+ **8) Les ouvertures**
 
 Réalisées sur mesure en chêne local par un menuisier-charpentier, les ouvertures assurent une bonne isolation thermique et acoustique grâce à un double vitrage 10/6/4.
 La menuiserie est protégée par une huile naturelle du fabricant Oléobois, spécifique pour les bois extérieurs. Ce choix permet un entretien simple et espacé dans le temps.
 Les fenêtres sont à ouverture à « gueule de loup », traditionnelle.
 
- 9) Les cloisons intérieures
+ **9) Les cloisons intérieures**
 
 Elles ont été réalisées en terre-chanvre projeté sur ossature bois. Ce mélange terre et paillettes de chanvre) offre une excellente isolation acoustique entre les pièces.
 
 **PARTIE TECHNIQUE**
 
- 1) Installation solaire thermique
+ **1) Installation solaire thermique**
 
 Réalisée par Gebhard Keckeis et son entreprise Energiewerkstatt basée en Autriche. Gebhard a plus de 30 ans d’expérience et a reçu le Prix Solaire Autrichien 2018 pour la réalisation du système d’énergie solaire thermique avec « activation des composants » sur le lieu de production de la « Maison Metzler » situé à Egg en Autriche : un espace de 1700 m2 pour la production de produits cosmétiques bio sur la base du lait produit par la ferme traditionnelle familiale voisine.
 
@@ -93,7 +94,7 @@ Le principe est simple : la chaleur stockée en été va se distribuer progress
 
 Ce système solaire thermique assure 80% des besoins en eau chaude sanitaire et chauffage. Les 20% restants seront fournis par une cuisinière à bois bouilleur reliée au ballon solaire, ainsi que par l’ajout d’un plancher chauffant sur une largeur de 1 mètre, disposé le long des murs extérieurs de la maison (ces deux éléments ne sont pas encore réalisés).
 
- 2) Électricité
+ **2) Électricité**
 
 Un tableau intermédiaire est situé dans le carport, afin de permettre à l’avenir une liaison avec une installation photovoltaïque sur sa toiture, permettant une consommation directe de la production d’électricité complétée au besoin en cas d’ensoleillement insuffisant grâce au raccordement Enedis.
 
@@ -105,7 +106,7 @@ Appareillage de la marque allemande THPG, de couleur noire dans la cuisine, blan
 
 Un éclairage privilégiant la lumière indirecte (appliques dans toute la maison, prise commandée dans la bibliothèque et dans les chambres) a été réalisé ; deux plafonniers dans l’espace cuisine – salle à manger ont été prévus, ainsi qu’un éclairage à détection automatique à l’entrée nord de la maison, qui est l’accès privilégié depuis le carport.
 
- 3) Assainissement
+ **3) Assainissement**
 
 Un système de pédo-épuration a été réalisé sur les recommandations de l’Écocentre du Gers Pierre et Terre, qui aide à la mise en œuvre de ce principe. Ce système, encore non conforme mais en voie de le devenir, est la meilleure alternative pour un habitat équipé de toilettes sèches, ce qui est le cas dans la maison.
 
@@ -120,7 +121,7 @@ Les eaux grises sont recueillies par chaque tranchée alternativement, et sont t
 Suivant les recommandations de Pierre et Terre, plusieurs arbres fruitiers ont été plantés non loin de ces tranchées, qui profiteront lors de la saison sèche de cet apport en eau chargée de nutriments.
 Ce système d’irrigation par les eaux grises est mis en œuvre dans le monde entier, et de nombreuses études ont été réalisées sur ce thème qui en ont démontré l’utilité et la parfaite innocuité.
 
- 4) Récupération d’eau de pluie
+ **4) Récupération d’eau de pluie**
 
 Destiné à être couplé au réseau d’eau potable en place, un tuyau d’alimentation générale en eau (non encore raccordé) pour un projet de récupération d’eau de pluie (prévue au départ grâce à deux cuves en béton armé de 12,5 m3 chacune), a été intégré dans la tranchée menant au local technique situé sous l’appentis à l’arrière de la maison, un gestionnaire d’eau de pluie devant être installé dans ce même local. Il était prévu de rendre cette eau potable par l’installation d’un système de filtration. 
 
