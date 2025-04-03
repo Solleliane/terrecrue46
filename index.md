@@ -7,17 +7,17 @@ in_menu: true
 
 ![Plan cadastral]({% link images/Image PNG.png %})
 
-### MAISON DE TERRE CRUE
-### Technique traditionnelle de la bauge
+#### **MAISON DE TERRE CRUE**
+#### **Technique traditionnelle de la bauge**
 
 #### Saint-Martin-des-Bois 46130 PRUDHOMAT
 #### Terrain 3709 m2 sans mitoyenneté
 
-LE TERRAIN
+**LE TERRAIN**
 
 Un beau terrain plat de 3709 m2 sans mitoyenneté, arboré en bordure, essentiellement des pruniers au nord et un grand noyer à l’est.  Plusieurs fruitiers ont été plantés, positionnés au sud-est de la maison, non loin du point d’eau destiné à l’arrosage du jardin potager. Quelques autres fruitiers ont été plantés le long de la bordure ouest du terrain. La terre est remarquablement fertile, tout y pousse.
 
-LA CONSTRUCTION
+**LA CONSTRUCTION**
 
  1) Les fondations
 
@@ -71,7 +71,7 @@ Les fenêtres sont à ouverture à « gueule de loup », traditionnelle.
 
 Elles ont été réalisées en terre-chanvre projeté sur ossature bois. Ce mélange terre et paillettes de chanvre) offre une excellente isolation acoustique entre les pièces.
 
-PARTIE TECHNIQUE
+**PARTIE TECHNIQUE**
 
  1) Installation solaire thermique
 
@@ -124,7 +124,7 @@ Ce système d’irrigation par les eaux grises est mis en œuvre dans le monde e
 
 Destiné à être couplé au réseau d’eau potable en place, un tuyau d’alimentation générale en eau (non encore raccordé) pour un projet de récupération d’eau de pluie (prévue au départ grâce à deux cuves en béton armé de 12,5 m3 chacune), a été intégré dans la tranchée menant au local technique situé sous l’appentis à l’arrière de la maison, un gestionnaire d’eau de pluie devant être installé dans ce même local. Il était prévu de rendre cette eau potable par l’installation d’un système de filtration. 
 
-LE PLAN
+**LE PLAN**
 
 Plan RDC
 
@@ -135,7 +135,7 @@ Plan Étage
 ![Plan étage]({% link images/2CBB1942-473A-4C8B-8087-24DC034EDA8F.jpeg %})
 
 
-DISPOSITION
+**DISPOSITION**
 
 Au rez-de-chaussée :
 
@@ -165,13 +165,13 @@ le local technique 3,6 m2
 
 Le plan a été longuement et soigneusement étudié pour offrir un espace de vie confortable et harmonieux.
 
-REZ-DE-CHAUSSÉE :
+**REZ-DE-CHAUSSÉE :**
 
-Salon – Salle-à-manger
+**Salon – Salle-à-manger**
 
 Un grand espace ouvert comprend en son centre l’ensemble cheminée à foyer ouvert – cuisinière à bois bouilleur. Dans le projet, les deux éléments devaient être maçonnés en un seul grand ensemble par un maître poêlier allemand avec une finition traditionnelle à la chaux, constituant le cœur de la maison.
 
-Cuisine
+**Cuisine**
 
 Côté cuisine, un espace comportant table et banquettes est situé à l’arrière de la cuisinière à bois.
 
@@ -179,24 +179,24 @@ Côté cuisine, un espace comportant table et banquettes est situé à l’arri�
 
 Le petit îlot situé au centre de l’espace cuisine contient un raccordement pour l’arrivée de gaz, acheminé par un tuyau enterré en provenance du local technique (au nord de la maison dans l’appentis), où deux bouteilles pourront être stockées pour l’alimentation de la gazinière.
 
-Salle-de-bains
+**Salle-de-bains**
 
 On y accède par une porte située à droite de l’escalier menant à l’étage. La salle-de-bains contient les éléments suivants : lavabo, baignoire et toilette sèche (une évacuation d’eaux usées est prévue pour d’éventuelles toilettes à eau).
 
-Espace Ouest
+**Espace Ouest**
 
 Une grande ouverture à l’ouest du salon – salle-à-manger donne accès à un espace destiné à devenir un lieu de vie autonome, comprenant un salon-bibliothèque s’ouvrant au sud sur une véranda-coin cuisine, au nord sur une chambre et une petite salle-de-bains. Cet ensemble peut donc être séparé du reste de la maison pour former un appartement indépendant.
 
-Appentis Nord
+**Appentis Nord**
 
 Il est situé le long de la façade nord de la maison, et comprend le local technique, un cellier et la petite salle-de-bains de l’espace ouest.
 
-ÉTAGE :
+**ÉTAGE :**
 
 Le projet comporte une grande chambre côté ouest, un petit cabinet de toilette et un autre grand espace aménageable en chambre ou autre destination d’usage.
 
 Deux lucarnes sur la toiture sud et une fenêtre sur chaque pignon ont été réalisées. Une grande fenêtre de toiture sur la face sud (type « vitre d’atelier », grand vitrage habillé de deux fines barres métalliques verticales) et deux petites sur la face nord, prévues dans le permis de construire, restent à poser.
 
-CARPORT :
+**CARPORT :**
 
 Un carport en cours de construction en bois de mélèze brûlé à la japonaise est situé à l’entrée du terrain, offrant un espace parking pour deux voitures ainsi qu’un petit local technique dédié au solaire photovoltaïque (voir la description au chapitre Partie Technique). 
