@@ -5,6 +5,7 @@ in_menu: true
 ---
 ![Château de Castelnau]({% link images/Château de Castelnau.jpg %})
 
+
 ![Plan cadastral]({% link images/Image PNG.png %})
 
 #### **MAISON DE TERRE CRUE - Technique traditionnelle de la bauge**
