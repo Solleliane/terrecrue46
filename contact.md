@@ -3,7 +3,8 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Éliane SOLLÉ
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+e.solle@orange.fr
+
+06 76 14 33 02 
