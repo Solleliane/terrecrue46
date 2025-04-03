@@ -128,6 +128,11 @@ Plan RDC
 
 ![Plan RDC]({% link images/0D8D47EE-E449-4F7B-9A5A-33E8C654B72B.jpeg %})
 
+Plan Étage
+
+![Plan étage]({% link images/2CBB1942-473A-4C8B-8087-24DC034EDA8F.jpeg %})
+
+
 DISPOSITION
 
 Au rez-de-chaussée :
