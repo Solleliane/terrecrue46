@@ -1,8 +1,6 @@
 ---
-title: Accueil
+title: "Maison en bauge dans le Lot"
 order: 0
+in_menu: true
 ---
-
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![Photo de la maison en terre crue]({% link images/B7CE1BB3-47E1-4B7E-A672-13DA2DA182E5.jpeg %}) 
