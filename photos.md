@@ -15,3 +15,7 @@ blog_index: true
 ![Photo salon]({% link images/0A3CC6FA-4737-42F1-8A2C-77E1D530789C.jpeg %})
 
 ![Photo cuisine]({% link images/D0FE8307-0BD2-4BB7-AB51-4E6EFA3735CD.jpeg %}) 
+
+![Appareillage noir 1]({% link images/IMG_2624.JPG %})
+
+![Appareillage 2]({% link images/IMG_2625.JPG %}) 
