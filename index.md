@@ -85,9 +85,9 @@ Dans le local technique situé dans l’appentis nord à l’arrière de la mais
 
 Le principe : récupération et stockage de chaleur solaire thermique grâce à deux niveaux de tuyaux de cuivre gainé positionnés sous toute la superficie de la maison (90 m2).
 
- a – un premier niveau de 400 ml de tuyaux positionnés à 1,20m de profondeur sous la maison est destiné à la récupération du surplus de chaleur solaire thermique en été. Sur ce premier niveau de tuyaux a été déversé du gros gravier sur une hauteur de 90 cm. Au fur et à mesure de l’avancement de la saison chaude, la chaleur qui circule dans les tuyaux de ce premier niveau en sous-sol est stockée dans la pierre grâce à la circulation du produit caloporteur venant des panneaux solaires thermiques.
+ a – un premier niveau de 400 ml de tuyaux de cuivre gainé positionnés à 1,20m de profondeur sous la maison est destiné à la récupération du surplus de chaleur solaire thermique en été. Sur ce premier niveau de tuyaux a été déversé du gros gravier sur une hauteur de 90 cm. Au fur et à mesure de l’avancement de la saison chaude, la chaleur qui circule dans les tuyaux de ce premier niveau en sous-sol est stockée dans la pierre grâce à la circulation du produit caloporteur venant des panneaux solaires thermiques.
 
- b – un deuxième niveau de 300 ml de tuyaux posé par dessus le volume de gravier est destiné à recueillir directement la chaleur solaire lors des belles journées ensoleillées en hiver.
+ b – un deuxième niveau de 300 ml de tuyaux de cuivre gainé posé par dessus le volume de gravier est destiné à recueillir directement la chaleur solaire lors des belles journées ensoleillées en hiver.
 
 Le principe est simple : la chaleur stockée en été va se distribuer progressivement dans toute la maison lors de l’avancée de la saison froide, et la chaleur apportée en hiver vient compléter cet apport de chaleur.
 
