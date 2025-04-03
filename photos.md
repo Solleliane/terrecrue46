@@ -4,9 +4,11 @@ order: 1
 in_menu: true
 blog_index: true
 ---
-![Photo maison]({% link images/A56BA435-3739-454C-963F-A1816F0114C6.jpeg %}) 
+![Photo maison 1]({% link images/A56BA435-3739-454C-963F-A1816F0114C6.jpeg %}) 
 
-![Photo maison]({% link images/IMG_3292.JPG %})
+![Photo maison 2]({% link images/IMG_3292.JPG %})
+
+![Photo maison 3]({% link images/5167CD7D-6881-4C11-A911-A7E313CAD688.jpeg %})
 
 ![Photo salon]({% link images/0A3CC6FA-4737-42F1-8A2C-77E1D530789C.jpeg %})
 
