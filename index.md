@@ -122,8 +122,11 @@ Ce système d’irrigation par les eaux grises est mis en œuvre dans le monde e
 
 Destiné à être couplé au réseau d’eau potable en place, un tuyau d’alimentation générale en eau (non encore raccordé) pour un projet de récupération d’eau de pluie (prévue au départ grâce à deux cuves en béton armé de 12,5 m3 chacune), a été intégré dans la tranchée menant au local technique situé sous l’appentis à l’arrière de la maison, un gestionnaire d’eau de pluie devant être installé dans ce même local. Il était prévu de rendre cette eau potable par l’installation d’un système de filtration. 
 
+LE PLAN
 
-![Plans en 2D du rez-de-chaussée et de l’étage]({% link images/Image PNG 2.png %})
+Plan RDC
+
+![Plan RDC]({% link images/0D8D47EE-E449-4F7B-9A5A-33E8C654B72B.jpeg %})
 
 DISPOSITION
 
