@@ -63,7 +63,7 @@ Elle est assurée par une épaisseur de 2 x 100 mm de laine de bois souple crois
 
  8) Les ouvertures
 
-Réalisées sur mesure en chêne local par un menuisier-charpentier, les ouvertures assurent une bonne isolation thermique et acoustique grâce à un vitrage 10/6/4.
+Réalisées sur mesure en chêne local par un menuisier-charpentier, les ouvertures assurent une bonne isolation thermique et acoustique grâce à un double vitrage 10/6/4.
 La menuiserie est protégée par une huile naturelle du fabricant Oléobois, spécifique pour les bois extérieurs. Ce choix permet un entretien simple et espacé dans le temps.
 Les fenêtres sont à ouverture à « gueule de loup », traditionnelle.
 
@@ -91,7 +91,7 @@ Le principe : récupération et stockage de chaleur solaire thermique grâce à
 
 Le principe est simple : la chaleur stockée en été va se distribuer progressivement dans toute la maison lors de l’avancée de la saison froide, et la chaleur apportée en hiver vient compléter cet apport de chaleur.
 
-Ce système solaire thermique assure 80% des besoins en ECS et chauffage. Les 20% restants sont fournis par une cuisinière à bois bouilleur reliée au ballon solaire, ainsi que par l’ajout d’un plancher chauffant sur une largeur de 1 mètre, disposé le long des murs (extérieurs) de la maison.
+Ce système solaire thermique assure 80% des besoins en eau chaude sanitaire et chauffage. Les 20% restants seront fournis par une cuisinière à bois bouilleur reliée au ballon solaire, ainsi que par l’ajout d’un plancher chauffant sur une largeur de 1 mètre, disposé le long des murs extérieurs de la maison (ces deux éléments ne sont pas encore réalisés).
 
  2) Électricité
 
@@ -100,6 +100,8 @@ Un tableau intermédiaire est situé dans le carport, afin de permettre à l’a
 Un local technique y est prévu pour y installer le matériel nécessaire à cette production d’électricité, afin de permettre une quasi totale autonomie de la maison en énergie électrique photovoltaïque (complétée par l’apport Enedis au besoin).
 
 L’ensemble du système électrique de la maison est réalisé avec fils et câbles blindés. Le plan général des divers postes de l’appareillage électrique a été longuement réfléchi. Ce plan est composé de nombreuses prises électriques, de prises RJ45 réparties dans toute la maison, de deux prises Hi Fi dans le salon, de deux prises HDMI dans la bibliothèque pour relier un écran TV à l’ordinateur.
+
+Appareillage de la marque allemande THPG.
 
 Un éclairage privilégiant la lumière indirecte (appliques dans toute la maison, prise commandée dans la bibliothèque et dans les chambres) a été réalisé ; deux plafonniers dans l’espace cuisine – salle à manger ont été prévus, ainsi qu’un éclairage à détection automatique à l’entrée nord de la maison, qui est l’accès privilégié depuis le carport.
 
@@ -183,7 +185,7 @@ On y accède par une porte située à droite de l’escalier menant à l’étag
 
 Espace Ouest
 
-Une grande ouverture à l’ouest du salon – salle-à-manger donne accès à un espace destiné à devenir un lieu de vie autonome, comprenant une bibliothèque s’ouvrant au sud sur une véranda-coin cuisine, au nord sur une chambre et une petite salle-de-bains.
+Une grande ouverture à l’ouest du salon – salle-à-manger donne accès à un espace destiné à devenir un lieu de vie autonome, comprenant un salon-bibliothèque s’ouvrant au sud sur une véranda-coin cuisine, au nord sur une chambre et une petite salle-de-bains. Cet ensemble peut donc être séparé du reste de la maison pour former un appartement indépendant.
 
 Appentis Nord
 
