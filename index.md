@@ -123,4 +123,63 @@ Ce système d’irrigation par les eaux grises est mis en œuvre dans le monde e
 Destiné à être couplé au réseau d’eau potable en place, un tuyau d’alimentation générale en eau (non encore raccordé) pour un projet de récupération d’eau de pluie (prévue au départ grâce à deux cuves en béton armé de 12,5 m3 chacune), a été intégré dans la tranchée menant au local technique situé sous l’appentis à l’arrière de la maison, un gestionnaire d’eau de pluie devant être installé dans ce même local. Il était prévu de rendre cette eau potable par l’installation d’un système de filtration. 
 
 
-![Plans en 2D du rez-de-chaussée et de l’étage]({% link images/Image PNG 2.png %}) 
+![Plans en 2D du rez-de-chaussée et de l’étage]({% link images/Image PNG 2.png %})
+
+DISPOSITION
+
+Au rez-de-chaussée :
+
+	• la pièce à vivre salon-cuisine - 54 m2
+	• la grande salle de bains - 5,30 m2
+	• la bibliothèque - 14,20 m2
+	• la chambre d’ami - 14 m2
+	• la petite salle de bains -  3,9 m2
+	• l’espace escalier -  2,50 m2
+
+À l’étage :
+
+	• la grande chambre -  35 m2
+	• la grande pièce – 52 m2
+
+Dans l’appentis :
+
+	• le cellier 8,4 m2
+	• le local technique 3,6 m2
+
+Le plan a été longuement et soigneusement étudié pour offrir un espace de vie confortable et harmonieux.
+
+REZ-DE-CHAUSSÉE :
+
+Salon – Salle-à-manger
+
+Un grand espace ouvert comprend en son centre l’ensemble cheminée à foyer ouvert – cuisinière à bois bouilleur. Dans le projet, les deux éléments devaient être maçonnés en un seul grand ensemble par un maître poêlier allemand avec une finition traditionnelle à la chaux, constituant le cœur de la maison.
+
+Cuisine
+
+Côté cuisine, un espace comportant table et banquettes est situé à l’arrière de la cuisinière à bois.
+
+À l’arrière de cet espace, à droite de la porte d’entrée nord, un petit cellier ouvert où sont intégrés le tableau électrique et le boîtier de communication a été prévu afin d’y positionner le réfrigérateur non visible depuis l’espace de vie salon – salle-à-manger.
+
+Le petit îlot situé au centre de l’espace cuisine contient un raccordement pour l’arrivée de gaz, acheminé par un tuyau enterré en provenance du local technique (au nord de la maison dans l’appentis), où deux bouteilles pourront être stockées pour l’alimentation de la gazinière.
+
+Salle-de-bains
+
+On y accède par une porte située à droite de l’escalier menant à l’étage. La salle-de-bains contient les éléments suivants : lavabo, baignoire et toilette sèche (une évacuation d’eaux usées est prévue pour d’éventuelles toilettes à eau).
+
+Espace Ouest
+
+Une grande ouverture à l’ouest du salon – salle-à-manger donne accès à un espace destiné à devenir un lieu de vie autonome, comprenant une bibliothèque s’ouvrant au sud sur une véranda-coin cuisine, au nord sur une chambre et une petite salle-de-bains.
+
+Appentis Nord
+
+Il est situé le long de la façade nord de la maison, et comprend le local technique, un cellier et la petite salle-de-bains de l’espace ouest.
+
+ÉTAGE :
+
+Le projet comporte une grande chambre côté ouest, un petit cabinet de toilette et un autre grand espace aménageable en chambre ou autre destination d’usage.
+
+Deux lucarnes sur la toiture sud et une fenêtre sur chaque pignon ont été réalisées. Une grande fenêtre de toiture sur la face sud (type « vitre d’atelier », grand vitrage habillé de deux fines barres métalliques verticales) et deux petites sur la face nord, prévues dans le permis de construire, restent à poser.
+
+CARPORT :
+
+Un carport en cours de construction en bois de mélèze brûlé à la japonaise est situé à l’entrée du terrain, offrant un espace parking pour deux voitures ainsi qu’un petit local technique dédié au solaire photovoltaïque (voir la description au chapitre Partie Technique). 
