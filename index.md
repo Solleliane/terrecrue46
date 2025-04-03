@@ -8,7 +8,7 @@ in_menu: true
 ![Plan cadastral]({% link images/Image PNG.png %})
 
 #### **MAISON DE TERRE CRUE - Technique traditionnelle de la bauge**
-#### Saint-Martin-des-Bois 46130 PRUDHOMAT
+Saint-Martin-des-Bois 46130 PRUDHOMAT
 Terrain 3709 m2 sans mitoyenneté
 
 
