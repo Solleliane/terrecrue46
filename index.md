@@ -3,7 +3,9 @@ title: "Maison en bauge dans le Lot"
 order: 0
 in_menu: true
 ---
-![Texte décrivant l'image]({% link images/Château de Castelnau.jpg %})
+![Château de Castelnau]({% link images/Château de Castelnau.png %})
+
+Le Château de Castelnau, à 300m de la maison par un petit sentier.
 
 ![Plan cadastral]({% link images/Image PNG.png %})
 
