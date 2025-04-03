@@ -3,8 +3,7 @@ title: "Maison en bauge dans le Lot"
 order: 0
 in_menu: true
 ---
-![Château de Castelnau]({% link images/Château de Castelnau.jpg %})
-
+![Texte décrivant l'image]({% link images/Château de Castelnau.jpg %})
 
 ![Plan cadastral]({% link images/Image PNG.png %})
 
