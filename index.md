@@ -141,7 +141,7 @@ Plan Étage
 
 **DISPOSITION**  
 
-Au rez-de-chaussée :  
+**Au rez-de-chaussée :**  
 
 la pièce à vivre salon-cuisine 54 m2  
 
@@ -155,13 +155,13 @@ la petite salle de bains 3,9 m2
 
 l’espace escalier 2,50 m2  
 
-À l’étage :  
+**À l’étage :**    
 
 la grande chambre 35 m2  
 
 la grande pièce 52 m2  
 
-Dans l’appentis :  
+**Dans l’appentis :**  
 
 le cellier 8,4 m2  
 
