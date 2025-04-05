@@ -175,8 +175,6 @@ Le plan a été longuement et soigneusement étudié pour offrir un espace de vi
 
 Un grand espace ouvert comprend en son centre l’ensemble cheminée à foyer ouvert – cuisinière à bois bouilleur. Dans le projet, les deux éléments devaient être maçonnés en un seul grand ensemble par un maître poêlier allemand avec une finition traditionnelle à la chaux, constituant le cœur de la maison.  
 
-[Kamin-Herdkessel]({% link images/Kamin:Herdkessel.jpg %})
-
 **Cuisine**  
 
 Côté cuisine, un espace comportant table et banquettes est situé à l’arrière de la cuisinière à bois.  
