@@ -20,8 +20,6 @@ blog_index: true
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})
 
-![Stefan Ziegler 2]({% link images/Capture d’écran 2018-03-27 à 08.47.31.png %})
-
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})
 
 ![Appareillage 2]({% link images/IMG_2625.JPG %}) 
