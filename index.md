@@ -3,10 +3,10 @@ title: "Maison en bauge dans le Lot"
 order: 0
 in_menu: true
 ---
-![Photo maison]({% link images/IMG_3287.jpg %})
-
-![Plan cadastral]({% link images/Image PNG.png %})
-
+|![Photo maison]({% link| |images/IMG_3287.jpg %})|
+:—————————————————:
+|![Plan cadastral]({% link| |images/Image PNG.png %})|
+:—————————————————-:
 #### **MAISON DE TERRE CRUE - Technique traditionnelle de la bauge**
 Saint-Martin-des-Bois 46130 PRUDHOMAT
 Terrain 3709 m2 sans mitoyenneté
