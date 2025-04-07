@@ -22,8 +22,6 @@ blog_index: true
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})
 
-![Stefan Ziegler 2]({% link images/Stefan Ziegler 2.png %})
-
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})
 
 ![Appareillage noir 2]({% link images/IMG_2625.JPG %}) 
