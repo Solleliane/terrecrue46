@@ -3,7 +3,7 @@ title: "Maison en bauge dans le Lot"
 order: 0
 in_menu: true
 ---
-![Photo maison]({% link| |images/IMG_3287.jpg %})
+![Photo maison]({% link images/IMG_3287.jpg %})
 
 ![Plan cadastral]({% link images/Image PNG.png %})
 
