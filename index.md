@@ -147,7 +147,7 @@ la pièce à vivre salon-cuisine 54 m2
 
 la grande salle de bains 5,30 m2  
 
-la bibliothèque 14,20 m2  
+le salon-bibliothèque 14,20 m2  
 
 la chambre d’ami 14 m2  
 
@@ -163,7 +163,7 @@ la grande pièce 52 m2
 
 **Dans l’appentis :**  
 
-le cellier 8,4 m2  
+le cellier-buanderie 8,4 m2  
 
 le local technique 3,6 m2  
 
