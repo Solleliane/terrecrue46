@@ -22,7 +22,7 @@ blog_index: true
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})
 
-![Stefan Ziegler 2]({% link images/Capture d’écran 2018-03-27 à 08.47.31.png %})
+![Stefan Ziegler 2]({% link images/Stefan Ziegler 2.png %})
 
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})
 
@@ -33,6 +33,5 @@ blog_index: true
 ![Charpente 2]({% link images/7.JPG %})
 
 ![Charpente 3]({% link images/8.JPG %})
-
 
 ![Château de Castelnau]({% link images/Image PNG.png %}) 
