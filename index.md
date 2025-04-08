@@ -5,7 +5,8 @@ in_menu: true
 ---
 ![Photo maison]({% link images/IMG_3287.jpg %})
 
-![Château de Castelnau]({% link images/Château de Castelnau.png %})
+![Texte décrivant l'image]({% link images/Château de Castelnau.png %})
+
 
 #### **MAISON DE TERRE CRUE - Technique traditionnelle de la bauge**
 Saint-Martin-des-Bois 46130 PRUDHOMAT
