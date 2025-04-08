@@ -31,6 +31,8 @@ Un exemple du style de maçonnerie, plaque et portes envisagé pour l’ensemble
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})  
 
+![Photo porte tiercée]({% link images/Porte tiercée.JPG %})
+
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})  
 
 ![Appareillage noir 2]({% link images/IMG_2625.JPG %}) 
