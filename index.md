@@ -15,10 +15,13 @@ Terrain 3709 m2 sans mitoyenneté
 
 **LE TERRAIN**
 
-Situé au sommet d’une colline surplombant le Château de Castelnau (situé à 300m par un petit sentier), beau terrain plat de 3709 m2 sans mitoyenneté, arboré en bordure, essentiellement des pruniers au nord et un grand noyer à l’est.  
+Situé à 240m d’altitude au sommet d’une colline surplombant le Château de Castelnau (à 300m par un petit sentier), beau terrain plat de 3709 m2 sans mitoyenneté, arboré en bordure, essentiellement des pruniers au nord et un grand noyer à l’est.  
+
 Plusieurs fruitiers ont été plantés, positionnés au sud-est de la maison, non loin du point d’eau destiné à l’arrosage du jardin potager. Quelques autres fruitiers ont été plantés le long de la bordure ouest du terrain.  
 
-La terre est remarquablement fertile, « un trésor » selon les paysans du coin, tout y pousse.
+La terre y est remarquablement fertile, « un trésor » selon les paysans du coin, tout y pousse.
+
+La maison est orientée plein sud dans un environnement calme.
 
 **LA CONSTRUCTION**
 
