@@ -14,7 +14,9 @@ blog_index: true
 
 ![Photo panneaux solaires]({% link images/8D517C36-8051-4B92-8038-633B05707AF0.jpeg %})  
 
-![Photo salon]({% link images/Salon 2.JPG %})
+![Photo salon]({% link images/Salon 2.JPG %})  
+
+![Photo porte tiercée]({% link images/Porte tiercée.JPG %})
 
 ![Photo cuisine]({% link images/Cuisine.JPG %})
 
@@ -30,8 +32,6 @@ Le plan du projet ensemble cuisinière à bois bouilleur/cheminée à foyer ouve
 Un exemple du style de maçonnerie, plaque et portes envisagé pour l’ensemble cuisinière à bois bouilleur et cheminée à foyer ouvert (réalisation Stefan Ziegler, maître poêlier de Bavière) :  
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})  
-
-![Photo porte tiercée]({% link images/Porte tiercée.JPG %})
 
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})  
 
