@@ -5,9 +5,6 @@ in_menu: true
 ---
 ![Photo maison]({% link images/IMG_3287.jpg %})
 
-![Texte décrivant l'image]({% link images/Château de Castelnau.png %})
-
-
 #### **MAISON DE TERRE CRUE - Technique traditionnelle de la bauge**
 Saint-Martin-des-Bois 46130 PRUDHOMAT
 Terrain 3709 m2 sans mitoyenneté
