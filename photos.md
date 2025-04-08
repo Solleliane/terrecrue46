@@ -20,6 +20,9 @@ blog_index: true
 
 ![Charpente 2]({% link images/IMG_3575.JPG %})  
 
+
+Un exemple du style de maçonnerie, plaque et portes envisagé pour l’e semble cuisinière à bois bouilleur et cheminée à foyer ouvert (réalisation Stefan Ziegler, maître poêlier de Bavière) :
+
 ![Plan cheminée - cuisinière à bois bouilleur]({% link images/Kamin:Herdkessel.jpg %})  
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})  
