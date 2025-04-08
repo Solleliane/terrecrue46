@@ -14,6 +14,7 @@ blog_index: true
 
 ![Photo salon]({% link images/Salon 2.JPG %})
 
+![Photo cuisine]({% link images/Cuisine.JPG %})
 
 ![Charpente 1]({% link images/IMG_3572.JPG %})  
 
