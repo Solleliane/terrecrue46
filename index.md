@@ -11,7 +11,13 @@ in_menu: true
 Saint-Martin-des-Bois 46130 PRUDHOMAT
 Terrain 3709 m2 sans mitoyenneté
 
+Dans ce petit village du Lot situé en bordure nord du Limargue, à 300m de la forteresse médiévale de Castelnau sur une colline verdoyante longée par la vallée de la Dordogne, la construction d'une maison en bauge, fabriquée à la main, en se servant de la terre crue extraite du terrain même où elle est située, sans ossature bois, "armée" de paille achetée chez un agriculteur bio local... ce projet, après les premiers moments d'étonnement voire de perplexité parmi la population locale, a soulevé intérêt et sympathie : les visites sur le chantier ont été récurrentes, pour le plus grand plaisir des participants. Un bel endroit pour un projet inspiré dans son aspect extérieur par l'architecture locale, mais néanmoins hors norme par son organisation tendant vers l'autonomie énergétique et alimentaire.
 
+Vous trouverez ci-dessous un dossier aussi complet que possible sur les diverses options qui ont prévalu au cours de cette réalisation.
+
+Également, au chapitre « contact », le lien vers ma page Twiza, l’excellent site dédié aux chantiers participatifs, où toutes les étapes de la construction sont documentées.
+
+Belle découverte !
 
 **LE TERRAIN**
 
