@@ -24,6 +24,7 @@ blog_index: true
 
 ![Charpente 2]({% link images/IMG_3575.JPG %})  
 
+
 Le plan du projet ensemble cuisinière à bois bouilleur/cheminée à foyer ouvert/table et banquettes attenantes :  
 
 ![Plan cheminée - cuisinière à bois bouilleur]({% link images/Kamin:Herdkessel.jpg %})  
@@ -32,6 +33,9 @@ Le plan du projet ensemble cuisinière à bois bouilleur/cheminée à foyer ouve
 Un exemple du style de maçonnerie, plaque et portes envisagé pour l’ensemble cuisinière à bois bouilleur et cheminée à foyer ouvert (réalisation Stefan Ziegler, maître poêlier de Bavière) :  
 
 ![Stefan Ziegler 1]({% link images/Stefan Ziegler.png %})  
+
+
+Deux exemples de l’appareillage noir dans la cuisine :  
 
 ![Appareillage noir 1]({% link images/IMG_2624.JPG %})  
 
