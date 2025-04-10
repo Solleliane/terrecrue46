@@ -14,7 +14,7 @@ blog_index: true
 
 ![Photo panneaux solaires]({% link images/8D517C36-8051-4B92-8038-633B05707AF0.jpeg %})  
 
-![Photo salon]({% link images/Salon 2.JPG %})  
+![Salon]({% link images/Salon.JPG %}) 
 
 ![Photo cuisine]({% link images/Cuisine.JPG %})
 
