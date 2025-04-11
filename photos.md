@@ -16,7 +16,7 @@ blog_index: true
 
 ![Salon]({% link images/Salon.JPG %}) 
 
-![Porte tiercée]({% link images/Porte tiercée.jpg %})
+![Porte tiercée]({% link images/Porte tiercée 2 .JPG %})
 
 ![Photo cuisine]({% link images/Cuisine.JPG %})
 
