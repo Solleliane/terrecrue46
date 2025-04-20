@@ -133,9 +133,7 @@ Les eaux grises sont recueillies par chaque tranchée alternativement, et sont t
 Suivant les recommandations de Pierre et Terre, plusieurs arbres fruitiers ont été plantés non loin de ces tranchées, qui profiteront lors de la saison sèche de cet apport en eau chargée de nutriments.
 Ce système d’irrigation par les eaux grises est mis en œuvre dans le monde entier, et de nombreuses études ont été réalisées sur ce thème qui en ont démontré l’utilité et la parfaite innocuité.  
 
-À ce sujet, voici le lien vers un article de Reporterre :
-
-https://reporterre.net/Le-dispositif-d-epuration-des-eaux-menageres-le-plus-ecolo-bientot-autorise-Donnons-une
+Lien  vers un article de la revue Reporterre à ce sujet.
 
  **4) Récupération d’eau de pluie**  
 
