@@ -20,6 +20,8 @@ blog_index: true
 
 ![Photo cuisine]({% link images/Cuisine.JPG %})
 
+![Petitcellier]({% link images/Petitcellier.JPG %})
+
 ![Portebiblioext]({% link images/Portebiblioext.JPG %})
 
 ![Portebiblioint]({% link images/Portebiblioint.JPG %})
