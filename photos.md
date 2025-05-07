@@ -20,8 +20,6 @@ blog_index: true
 
 ![Photo cuisine]({% link images/Cuisine.JPG %})
 
-![Portebiblioext]({% link images/Porte biblio extérieur.JPG %})
-
 ![Charpente 1]({% link images/IMG_3572.JPG %})  
 
 ![Charpente 2]({% link images/IMG_3575.JPG %})  
