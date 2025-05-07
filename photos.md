@@ -26,8 +26,6 @@ blog_index: true
 
 ![Portebiblioint]({% link images/Portebiblioint.JPG %})
 
-![Chambre d’ami]({% link images/Chambre d’ami.JPG %})
-
 ![Charpente 1]({% link images/IMG_3572.JPG %})  
 
 ![Charpente 2]({% link images/IMG_3575.JPG %})  
