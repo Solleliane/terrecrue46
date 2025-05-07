@@ -6,7 +6,7 @@ blog_index: true
 ---
 ![Plan cadastral]({% link images/Image PNG.png %})
 
-![Photo maison 1]({% link images/A56BA435-3739-454C-963F-A1816F0114C6.jpeg %})    
+
 
 ![Photo maison 2]({% link images/5167CD7D-6881-4C11-A911-A7E313CAD688.jpeg %})  
 
