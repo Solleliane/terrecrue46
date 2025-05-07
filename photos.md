@@ -22,6 +22,9 @@ blog_index: true
 
 ![Portebiblioext]({% link images/Portebiblioext.JPG %})
 
+![Portebiblioint]({% link images/Portebiblioint.JPG %})
+
+
 ![Charpente 1]({% link images/IMG_3572.JPG %})  
 
 ![Charpente 2]({% link images/IMG_3575.JPG %})  
